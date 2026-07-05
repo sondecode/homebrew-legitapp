@@ -1,6 +1,6 @@
 cask "legitapp" do
-  version "1.0.3"
-  sha256 "98bfb21d0b3c2f2287be9ffae7880219cf85a9a2d8bc9153fe31ac303ba6b70b"
+  version "1.0.4"
+  sha256 "458dccf716aa29c0173b7556ddf98c1ce5efbced1d2d19af1e45c458d1e637d4"
 
   url "https://github.com/sondecode/legitapp/releases/download/v#{version}/LegitApp.dmg"
   name "LegitApp"
